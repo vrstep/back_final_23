@@ -1,0 +1,47 @@
+label {
+	display: block;
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+
+.field-group {
+	margin-bottom: 10px;
+}
+
+.centerForm {
+	margin-top: 10px;
+	display: flex;
+  	justify-content: center;
+  	flex-direction: column;
+  	text-align: center;
+}
+
+p.inputError {
+	margin-top: 5px;
+    color: red;
+}
+
+.success {
+	color: green;
+	margin-bottom: 20px;
+}
+
+.mainError {
+	color: red;
+	margin-bottom: 20px;
+}
+
+.avatar {
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+}
+
+img[src="path_to_your_image"] {
+    width: 100px;
+    height: 100px;
+}
+
+.custom-dropdown-menu {
+    overflow: hidden;
+}
